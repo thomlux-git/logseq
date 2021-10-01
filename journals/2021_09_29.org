@@ -1,0 +1,24 @@
+* Today, no meeting
+** DONE finish slide  deck for ICDT-ET iLabs network meeting
+:LOGBOOK:
+CLOCK: [2021-09-29 Wed 08:56]--[2021-09-29 Wed 08:57] =>  00:01
+CLOCK: [2021-09-29 Wed 08:57]--[2021-09-29 Wed 08:57] =>  00:00
+:END:
+** DONE inform Illias of change of going forward
+** DONE write email to request quote from ViewAR to come onsite to install the beacons
+:LOGBOOK:
+CLOCK: [2021-09-29 Wed 08:58]--[2021-09-29 Wed 09:49] =>  00:51
+:END:
+** DONE schedule meeting with viewAR for next tuesday
+:LOGBOOK:
+CLOCK: [2021-09-29 Wed 09:49]--[2021-09-29 Wed 09:51] =>  00:02
+CLOCK: [2021-09-29 Wed 09:51]--[2021-09-29 Wed 09:51] =>  00:00
+:END:
+* #idea provide jupyterhub as a corporate service
+* LATER draft beacon file for DG INLO
+* LATER follow up with TANGAR (meeting ?)
+* LATER review vision document
+*
+*
+*
+*
