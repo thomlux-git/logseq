@@ -18,7 +18,3 @@ CLOCK: [2021-09-29 Wed 09:51]--[2021-09-29 Wed 09:51] =>  00:00
 * LATER draft beacon file for DG INLO
 * LATER follow up with TANGAR (meeting ?)
 * LATER review vision document
-*
-*
-*
-*
