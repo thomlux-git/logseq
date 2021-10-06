@@ -3,9 +3,9 @@
 :LOGBOOK:
 CLOCK: [2021-10-06 Wed 08:56]--[2021-10-06 Wed 08:56] =>  00:00
 :END:
-** LATER contact ulrich to get feedback on forms / webpage  integration
-** LATER contact Francis DELCH to talk about about EMAS
-** LATER investigate on european remote KYC solution
+** DONE contact ulrich to get feedback on forms / webpage  integration
+** LATER contact Francis DELCH to talk about about eIDAS and EU login.
+** DONE investigate on european remote KYC solution
 ** LATER take stock of ICDT-IT
 *** sum up ICDT-ET file, upload data in Teams, identify the next actions and sum up the comments from participants
 ** LATER find hosting for ICDT radar and tools
@@ -13,6 +13,16 @@ CLOCK: [2021-10-06 Wed 08:56]--[2021-10-06 Wed 08:56] =>  00:00
 ** LATER contact weframe
 ** LATER continue training elements of AI
 ** LATER continue training EUDPR
-** LATER watch blockchain presentation EUSA
-* *15h00 - wayfinding review meeting*
+** DONE watch blockchain presentation EUSA
+** LATER organise meeting with Inaki
 **
+* *15h00 - wayfinding review meeting*
+** *ViewAR*
+*** By the end of next week 15/10, ViewAR will ready the application
+*** Then, the week after 18-22/10, MeetHet can come onsite to install the beacon and check to placement with the application (i.e. less rework)
+*** DG INLO to review and approve the installation in the meantime (asap)
+** *TANGAR*
+*** meeting tomorrow to take stock of the tests done so far
+** 20 Octobre
+*** Meeting with Marc Jorissen and James Borg
+***
