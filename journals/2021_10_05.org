@@ -1,7 +1,29 @@
-* LATER send the file to INLO
-* LATER sum up ICDT-ET file, upload data in Teams, identify the next actions and sum up the comments from participants
-* LATER contact weframe
-* LATER continue training elements of AI
-* LATER continue training EUDPR
-* LATER watch blockchain presentation EUSA
+* DONE send the file to INLO
+* *11h00 - Bilateral*
+** certification meeting - material
 *
+* *14h00 - ViewAR*
+** EP reminded ViewAR of the expectation to have an end-to-end offer for the anticipated work, i.e. no extra work to be charged or not included.
+** By the end of next week 15/10, ViewAR will ready the application
+** Then, the week after 18-22/10, MeetHet can come onsite to install the beacon and check to placement with the application (i.e. less rework)
+** Facility management to review and approve the installation in the meantime (asap)
+*
+*
+* *15h00 - Design Thinking training + certif*
+** Online training for all users - a la element of AI
+** gamification
+** physical card games
+** rewards such as certificate
+** #idea - rewards -> breakfast with DG and the innovation team
+** [[https://ddc.dk/][Danish design center]]
+** [[https://www.boardofinnovation.com][Board of Innovators]]
+** [[https://oecd-opsi.org][ocde-opsi]]
+**
+**
+**
+**
+**
+**
+**
+**
+**
