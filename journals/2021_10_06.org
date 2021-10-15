@@ -6,15 +6,15 @@ CLOCK: [2021-10-06 Wed 08:56]--[2021-10-06 Wed 08:56] =>  00:00
 ** DONE contact ulrich to get feedback on forms / webpage  integration
 ** LATER contact Francis DELCH to talk about about eIDAS and EU login.
 ** DONE investigate on european remote KYC solution
-** LATER take stock of ICDT-IT
+** DONE take stock of ICDT-IT
 *** sum up ICDT-ET file, upload data in Teams, identify the next actions and sum up the comments from participants
 ** LATER find hosting for ICDT radar and tools
 ** LATER document how other labs works
-** LATER contact weframe
+** DONE contact weframe
 ** LATER continue training elements of AI
 ** LATER continue training EUDPR
 ** DONE watch blockchain presentation EUSA
-** LATER organise meeting with Inaki
+** DONE organise meeting with Inaki
 **
 * *15h00 - wayfinding review meeting*
 ** *ViewAR*
